@@ -1,4 +1,4 @@
-The day was not made to program. The night though?
+crusin'
 
 <!---
 scuraball/scuraball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
